@@ -1,6 +1,6 @@
 # Hi, I'm Juan Manuel Zaragoza 👋
 
-Full-Stack Engineer & Fractional CTO with 10+ years building custom software, automations and data platforms — and rescuing the ones that stopped working.
+Full-Stack Engineer & QA Automation with 10+ years building custom software, automations and data platforms.
 
 🌐 **[juanmazaragoza.com](https://juanmazaragoza.com)** · 📅 [Book a 30-min call](https://calendly.com/juanmanuelzaragoza/30min) · ✉️ hola@juanmazaragoza.com
 
